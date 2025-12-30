@@ -82,16 +82,15 @@ Desarrollador Swift apasionado por crear experiencias nativas impecables en el e
 
 ### **HARDWARE ENTHUSIAST**
 ```
-⚙️  Totalmente actualizado en hardware
+⚙️  Fully updated in Hardware / Software
 🥽  Vision Pro M5 - Early Adopter
-🔬  Seguimiento continuo de novedades tecnológicas
+🔬  Continuing research and development
 ```
 
 ### **CORE PRINCIPLES**
 ```css
 [✓] 100% Native Code
 [✓] Latest APIs & Features
-[✓] Zero Deprecated Code
 [✓] Zero Warnings Policy
 [✓] Custom Architectures
 [✓] Async/Await First
@@ -134,6 +133,6 @@ Desarrollador Swift apasionado por crear experiencias nativas impecables en el e
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-**`© 2025 Rub González | Swift Developer | Made with ⚡ and native code`**
+**`© 2026 Rub González | Swift Developer | Made with ⚡ and native code`**
 
 </div>
