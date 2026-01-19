@@ -58,7 +58,7 @@ Desarrollador Swift apasionado por crear experiencias nativas impecables en el e
 |----------|--------|------------|-------|
 | 🐉 **Bestiario de las Hurdes** | `IN DEVELOPMENT` | iOS/iPadOS | SwiftUI |
 | 📋 **App de Consejería** | `IN DEVELOPMENT` | iOS/iPadOS | SwiftUI + Vapor |
-| 🎯 **Proyecto Fin de Curso** | `IN DEVELOPMENT` | iOS/iPadOS | Swift Developer Program 2025 |
+| 🎯 **Bankai - Proyecto fin Apple Coding Academy** | `IN DEVELOPMENT` | iOS/iPadOS | Swift Developer Program 2025 |
 
 </div>
 
