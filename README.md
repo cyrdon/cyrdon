@@ -1,138 +1,45 @@
-<div align="center">
-RUB GONZÁLEZ // SWIFT DEVELOPER | COMPUTER TECHNICIAN | APPLE OPS SPECIALIST
+# Hola, aquí Rub González
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future+with+Swift+%26+SwiftUI;14+years+at+Apple+Inc.;Vision+Pro+early+adopter;Native+code+only.+No+compromises." alt="Typing SVG" />
+**Swift Developer · Operations Specialist · IT Technician**
 
----
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SISTEMA OPERATIVO: iOS/iPadOS Native Development               │
-│  ARQUITECTURA: Swift & SwiftUI                                  │
-│  ESTADO: ████████████░░░░░░░░░░ 50% OPERACIONAL                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+Más de 14 años en Apple Retail combinados con desarrollo iOS nativo desde 2025.  
+Cuatro apps publicadas en el App Store bajo la marca **Cyrks**, construidas íntegramente en Swift 6 sin dependencias de terceros.
 
 ---
 
-## 🔷 **PROTOCOLO DE IDENTIFICACIÓN**
+## 📱 Apps en el App Store
 
-```swift
-struct Developer: Identifiable {
-    let name = "Rub González"
-    let role = "Swift Developer"
-    let background = "Técnico Informático en ASI"
-    let experience = "14+ años como Operations Specialist en Apple Inc."
-    let currentFocus = "Proyectos personales con Swift & SwiftUI"
-    let philosophy = "Native code only. Latest APIs. Zero warnings tolerance."
-}
-```
-
-Desarrollador Swift apasionado por crear experiencias nativas impecables en el ecosistema Apple. Con más de 14 años de experiencia directa en Apple Inc., combino conocimiento profundo de los productos con código de calidad profesional. Creo en soluciones 100% nativas, arquitecturas propias y en mantener el código siempre actualizado.
+| App | Descripción | Stack |
+|---|---|---|
+| [OnBoard](https://apps.apple.com/es/app/onboard/id6760704612) | Gestión de citas y agenda profesional | SwiftUI · SwiftData · CloudKit · StoreKit 2 |
+| [OnLeitner](https://apps.apple.com/es/app/onleitner/id6760651622) | Repetición espaciada método Leitner | SwiftUI · SwiftData · CloudKit · StoreKit 2 |
+| [OnShelf](https://apps.apple.com/es/app/onshelf/id6760916697) | Biblioteca personal de libros | SwiftUI · SwiftData · CloudKit · StoreKit 2 |
+| [OnBD2](https://apps.apple.com/es/app/onbd2/id6761005696) | Escáner OBD-II para iPhone y Apple Watch | SwiftUI · CoreBluetooth · Network · WatchConnectivity |
 
 ---
 
-## 🎓 **CREDENCIALES AUTORIZADAS**
+## 🛠 Tech Stack
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  📱 Swift Developer Program 2025                          ║
-║     Apple Coding Academy                                  ║
-║                                                           ║
-║  💻 Técnico Informático en ASI                            ║
-║                                                           ║
-║  🍎 Operations Specialist                                 ║
-║     Apple Inc. | 14+ años                                 ║
-╚═══════════════════════════════════════════════════════════╝
-```
+![Swift](https://img.shields.io/badge/Swift-6.0-orange?style=flat-square&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-latest-orange?style=flat-square&logo=swift)
+![Vapor](https://img.shields.io/badge/Vapor-4.0-purple?style=flat-square)
+![SwiftData](https://img.shields.io/badge/SwiftData-latest-orange?style=flat-square&logo=swift)
+![CloudKit](https://img.shields.io/badge/CloudKit-✓-blue?style=flat-square)
+![StoreKit](https://img.shields.io/badge/StoreKit_2-✓-blue?style=flat-square)
 
 ---
 
-## ⚡ **SISTEMAS EN DESARROLLO**
+## 💼 Experiencia
 
-<div align="center">
-
-| PROYECTO | ESTADO | PLATAFORMA | STACK |
-|----------|--------|------------|-------|
-| 🐉 **Bestiario de las Hurdes** | `IN DEVELOPMENT` | iOS/iPadOS | SwiftUI |
-| 📋 **App de Consejería** | `IN DEVELOPMENT` | iOS/iPadOS | SwiftUI + Vapor |
-| 🎯 **Bankai - Proyecto fin Apple Coding Academy** | `IN DEVELOPMENT` | iOS/iPadOS | Swift Developer Program 2025 |
-
-</div>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  PHILOSOPHY: Async/await first. Modern APIs only.
-  NO third-party dependencies. Codable for JSON.
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+**Swift Developer Program** — Apple Coding Academy *(Oct 2025 – Feb 2026)*  
+**Operations Specialist · Experience Operations Expert** — Apple Retail *(2017 – 2025)*  
+**Specialist** — Apple Retail *(2011 – 2017)*
 
 ---
 
-## 🔧 **ESPECIFICACIONES TÉCNICAS**
+## 🌐 Portfolio & Contacto
 
-<div align="center">
-
-### **PRIMARY SYSTEMS**
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Vapor](https://img.shields.io/badge/Vapor-6C4BF4?style=for-the-badge&logo=vapor&logoColor=white)
-
-### **HARDWARE ENTHUSIAST**
-```
-⚙️  Fully updated in Hardware / Software
-🥽  Vision Pro M5 - Early Adopter
-🔬  Continuing research and development
-```
-
-### **CORE PRINCIPLES**
-```css
-[✓] 100% Native Code
-[✓] Latest APIs & Features
-[✓] Zero Warnings Policy
-[✓] Custom Architectures
-[✓] Async/Await First
-[✓] Codable Only (No JSONSerialization)
-```
-
-</div>
-
----
-
-## 📡 **CANALES DE COMUNICACIÓN**
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│   📧  EMAIL      →  cyrdon@me.com                      │
-│   💼  LINKEDIN   →  @cyrdon                            │
-│   🐦  TWITTER/X  →  @cyrdon                            │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-[![Email](https://img.shields.io/badge/Email-cyrdon@me.com-00D9FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:cyrdon@me.com)
-[![Social](https://img.shields.io/badge/Social-@cyrdon-00D9FF?style=for-the-badge&logo=about.me&logoColor=white)](https://twitter.com/cyrdon)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "Todo va a salir, exactamente, como tiene que salir."           ║
-║                                        - Tony Stark               ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-**`© 2026 Rub González | Swift Developer | Made with ⚡ and native code`**
-
-</div>
+[![Portfolio](https://img.shields.io/badge/cyrks.com-portfolio-blueviolet?style=flat-square)](https://cyrks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rub_González-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rub-gonzález-lópez-ab5327353)
+[![X](https://img.shields.io/badge/X-@cyrdon-black?style=flat-square&logo=x)](https://x.com/cyrdon)
+[![Email](https://img.shields.io/badge/Email-cyrdon@me.com-orange?style=flat-square&logo=apple)](mailto:cyrdon@me.com)
