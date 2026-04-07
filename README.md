@@ -1,6 +1,6 @@
 # Hola, aquí Rub González
 
-**Swift Developer · Operations Specialist · IT Technician**
+**Swift Developer · Operations · Tech & Hardware**
 
 Más de 14 años en Apple Retail combinados con desarrollo iOS nativo desde 2025.  
 Cuatro apps publicadas en el App Store bajo la marca **Cyrks**, construidas íntegramente en Swift 6 sin dependencias de terceros.
